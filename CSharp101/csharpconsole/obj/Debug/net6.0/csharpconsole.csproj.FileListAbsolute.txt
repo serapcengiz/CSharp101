@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\csharpconsole\bin\Debug\net6.0\csharpconsole.exe
+C:\Users\serap\Desktop\Pratikler\csharpconsole\bin\Debug\net6.0\csharpconsole.deps.json
+C:\Users\serap\Desktop\Pratikler\csharpconsole\bin\Debug\net6.0\csharpconsole.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\csharpconsole\bin\Debug\net6.0\csharpconsole.dll
+C:\Users\serap\Desktop\Pratikler\csharpconsole\bin\Debug\net6.0\csharpconsole.pdb
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.dll
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\refint\csharpconsole.dll
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.pdb
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\csharpconsole.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\csharpconsole\obj\Debug\net6.0\ref\csharpconsole.dll
